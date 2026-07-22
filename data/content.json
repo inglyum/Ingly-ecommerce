@@ -3444,6 +3444,7 @@
  },
  "SPONSORS": {
   "attivo": true,
+  "grigio": false,
   "titolo": {
    "it": "Partner & Sponsor",
    "en": "Partners & Sponsors"
@@ -3452,7 +3453,11 @@
    "it": "Aziende e artigiani con cui lavoriamo ogni giorno.",
    "en": "Businesses and makers we work with every day."
   },
-  "grigio": false,
+  "cta": {
+   "it": "Vuoi comparire qui? Scrivici.",
+   "en": "Want to appear here? Get in touch."
+  },
+  "ctaLink": "#/contatti",
   "lista": [
    {
     "nome": "Spatola Impresa Edile",
@@ -3474,68 +3479,15 @@
     },
     "logo": "img/sponsor-2.webp"
    }
-  ],
-  "cta": {
-   "it": "Vuoi comparire qui? Scrivici.",
-   "en": "Want to appear here? Get in touch."
-  },
-  "ctaLink": "#/contatti"
+  ]
  },
  "GALSPEED": 96,
  "MV": {
-  "img/1.webp": [
-   400,
-   800
-  ],
   "img/1-g3.webp": [
    400,
    800
   ],
   "img/1-g4.webp": [
-   400,
-   800
-  ],
-  "img/cat-casa.webp": [
-   400,
-   800
-  ],
-  "img/cat-eventi.webp": [
-   400,
-   800
-  ],
-  "img/cat-animali.webp": [
-   400,
-   800
-  ],
-  "img/cat-accessori.webp": [
-   400,
-   800
-  ],
-  "img/cat-b2b.webp": [
-   400,
-   800
-  ],
-  "img/cat-bambini.webp": [
-   400,
-   800
-  ],
-  "img/cat-stagionale.webp": [
-   400,
-   800
-  ],
-  "img/cat-digitale.webp": [
-   400,
-   800
-  ],
-  "img/cat-custom.webp": [
-   400,
-   800
-  ],
-  "img/cat-limited.webp": [
-   400,
-   800
-  ],
-  "img/port-1.webp": [
    400,
    800
   ],
@@ -3554,6 +3506,15 @@
   "img/sponsor-2.webp": [
    400,
    800
+  ],
+  "img/1.webp": [
+   400,
+   800
+  ],
+  "img/3.webp": [
+   400,
+   800
   ]
- }
+ },
+ "FOCAL": {}
 }
