@@ -137,7 +137,6 @@
   "price": 38,
   "icon": "💍",
   "rev": 46,
-  "coll": [],
   "prod": 5
  },
  {
@@ -322,17 +321,24 @@
   "cat": "accessori",
   "sub": 1,
   "n": {
-   "it": "Portachiavi Metallo F2",
-   "en": "F2 Metal Keychain"
+   "it": "Supereroi Chibi collection",
+   "en": "Supereroi Chibi collection"
   },
   "mat": "Metallo",
-  "price": 14,
+  "price": 34.99,
   "icon": "🔑",
   "rev": 210,
   "coll": [
    "best"
   ],
-  "prod": 3
+  "prod": 3,
+  "gallery": [
+   "img/20-g1.webp",
+   "img/20-g2.webp",
+   "img/20-g3.webp",
+   "img/20-g4.webp",
+   "img/20-g5.webp"
+  ]
  },
  {
   "id": 21,
