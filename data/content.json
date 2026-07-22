@@ -364,7 +364,8 @@
     "en": "Restaurant group · Bologna"
    },
    "c": "var(--blue)",
-   "i": "MR"
+   "i": "MR",
+   "ph": []
   },
   {
    "q": {
@@ -377,7 +378,8 @@
     "en": "Wedding · Rimini"
    },
    "c": "#8f6ad1",
-   "i": "GC"
+   "i": "GC",
+   "ph": []
   },
   {
    "q": {
@@ -390,7 +392,8 @@
     "en": "Tech company · Milano"
    },
    "c": "#2c8a5b",
-   "i": "LT"
+   "i": "LT",
+   "ph": []
   }
  ],
  "BIZ": [
@@ -540,7 +543,16 @@
     "it": "Menu board in rovere",
     "en": "Oak menu boards"
    },
-   "#e8d5b0,#c9a876"
+   "#e8d5b0,#c9a876",
+   "img/port-1.webp",
+   null,
+   {
+    "foto": [
+     "img/proj-1-1.webp",
+     "img/proj-1-2.webp",
+     "img/proj-1-3.webp"
+    ]
+   }
   ],
   [
    "🏆",
@@ -629,6 +641,14 @@
     "en": "3D lamps"
    },
    "#f4f0ff,#e3daf8"
+  ],
+  [
+   "✨",
+   {
+    "it": "Nuovo lavoro",
+    "en": "New work"
+   },
+   "#e8d5b0,#c9a876"
   ]
  ],
  "FONTS": [
@@ -3433,12 +3453,107 @@
    "en": "Businesses and makers we work with every day."
   },
   "grigio": false,
-  "lista": [],
+  "lista": [
+   {
+    "nome": "Spatola Impresa Edile",
+    "link": "https://www.instagram.com/spatola_costruzioni/",
+    "livello": "",
+    "desc": {
+     "it": "",
+     "en": ""
+    },
+    "logo": "img/sponsor-1.svg"
+   },
+   {
+    "nome": "Titinciu Elettro utensili",
+    "link": "https://www.titinciu.it/",
+    "livello": "",
+    "desc": {
+     "it": "",
+     "en": ""
+    },
+    "logo": "img/sponsor-2.webp"
+   }
+  ],
   "cta": {
    "it": "Vuoi comparire qui? Scrivici.",
    "en": "Want to appear here? Get in touch."
   },
   "ctaLink": "#/contatti"
  },
- "GALSPEED": 96
+ "GALSPEED": 96,
+ "MV": {
+  "img/1.webp": [
+   400,
+   800
+  ],
+  "img/1-g3.webp": [
+   400,
+   800
+  ],
+  "img/1-g4.webp": [
+   400,
+   800
+  ],
+  "img/cat-casa.webp": [
+   400,
+   800
+  ],
+  "img/cat-eventi.webp": [
+   400,
+   800
+  ],
+  "img/cat-animali.webp": [
+   400,
+   800
+  ],
+  "img/cat-accessori.webp": [
+   400,
+   800
+  ],
+  "img/cat-b2b.webp": [
+   400,
+   800
+  ],
+  "img/cat-bambini.webp": [
+   400,
+   800
+  ],
+  "img/cat-stagionale.webp": [
+   400,
+   800
+  ],
+  "img/cat-digitale.webp": [
+   400,
+   800
+  ],
+  "img/cat-custom.webp": [
+   400,
+   800
+  ],
+  "img/cat-limited.webp": [
+   400,
+   800
+  ],
+  "img/port-1.webp": [
+   400,
+   800
+  ],
+  "img/proj-1-1.webp": [
+   400,
+   800
+  ],
+  "img/proj-1-2.webp": [
+   400,
+   800
+  ],
+  "img/proj-1-3.webp": [
+   400,
+   800
+  ],
+  "img/sponsor-2.webp": [
+   400,
+   800
+  ]
+ }
 }

@@ -1,21 +1,29 @@
 [
  {
   "id": 1,
-  "cat": "casa",
-  "sub": 1,
+  "cat": "bambini",
+  "sub": 2,
   "n": {
-   "it": "Targa Casa Personalizzata",
+   "it": "Insegna  con nome Personalizzato Huntrix  Rumi",
    "en": "Custom House Plaque"
   },
   "mat": "Legno",
-  "price": 34,
+  "price": 34.99,
   "icon": "🪧",
   "rev": 67,
   "coll": [
    "best"
   ],
   "tag": "Best",
-  "prod": 3
+  "prod": 3,
+  "gallery": [
+   "img/1-g3.webp",
+   "img/1-g4.webp"
+  ],
+  "desc": {
+   "it": "Design Esclusivo: Grafica personalizzata con il nome \"Huntrix\" e personaggio 3D integrato per un effetto tridimensionale unico.\n\n​Versatilità: Ideale come elemento di sfondo per i tuoi video e streaming sui social, decorazione per uffici creativi o come idea regalo esclusiva.\n\n​Artigianato 100% Italiano: Progettato e creato con cura artigianale nel nostro laboratorio.",
+   "en": "Design Esclusivo: Grafica personalizzata con il nome \"Huntrix\" e personaggio 3D integrato per un effetto tridimensionale unico.\n\n​Versatilità: Ideale come elemento di sfondo per i tuoi video e streaming sui social, decorazione per uffici creativi o come idea regalo esclusiva.\n\n​Artigianato 100% Italiano: Progettato e creato con cura artigianale nel nostro laboratorio."
+  }
  },
  {
   "id": 2,
@@ -46,7 +54,6 @@
   "price": 59,
   "icon": "🖼️",
   "rev": 141,
-  "coll": [],
   "prod": 5
  },
  {
