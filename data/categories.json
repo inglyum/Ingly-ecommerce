@@ -40,10 +40,9 @@
     "en": "House keychains"
    }
   ],
-  "big": "1",
+  "big": 1,
   "bg": "linear-gradient(150deg,#f3e7d3,#e2c9a2)",
-  "icon": "casa",
-  "img": "img/cat-casa.webp"
+  "icon": "casa"
  },
  {
   "id": "eventi",
@@ -86,10 +85,9 @@
     "en": "Mother's/Father's day"
    }
   ],
-  "big": "1",
+  "big": 1,
   "bg": "linear-gradient(150deg,#fdf1f3,#fadde3)",
-  "icon": "eventi",
-  "img": "img/cat-eventi.webp"
+  "icon": "eventi"
  },
  {
   "id": "animali",
@@ -120,10 +118,7 @@
     "en": "Pet plaques"
    }
   ],
-  "icon": "animali",
-  "img": "img/cat-animali.webp",
-  "big": "",
-  "bg": ""
+  "icon": "animali"
  },
  {
   "id": "accessori",
@@ -162,10 +157,7 @@
     "en": "Covers"
    }
   ],
-  "icon": "accessori",
-  "img": "img/cat-accessori.webp",
-  "big": "",
-  "bg": ""
+  "icon": "accessori"
  },
  {
   "id": "b2b",
@@ -209,10 +201,7 @@
    }
   ],
   "w": 1,
-  "icon": "aziendale",
-  "img": "img/cat-b2b.webp",
-  "big": "",
-  "bg": ""
+  "icon": "aziendale"
  },
  {
   "id": "bambini",
@@ -248,9 +237,7 @@
    }
   ],
   "bg": "linear-gradient(150deg,#eefaf1,#d6f2df)",
-  "icon": "bambini",
-  "img": "img/cat-bambini.webp",
-  "big": ""
+  "icon": "bambini"
  },
  {
   "id": "stagionale",
@@ -290,9 +277,7 @@
    }
   ],
   "bg": "linear-gradient(150deg,#fdeaea,#f6cfcf)",
-  "icon": "stagionale",
-  "img": "img/cat-stagionale.webp",
-  "big": ""
+  "icon": "stagionale"
  },
  {
   "id": "digitale",
@@ -329,9 +314,7 @@
   ],
   "bg": "linear-gradient(150deg,#f4f0ff,#e3daf8)",
   "go": "digital",
-  "icon": "digitale",
-  "img": "img/cat-digitale.webp",
-  "big": ""
+  "icon": "digitale"
  },
  {
   "id": "custom",
@@ -349,9 +332,7 @@
   "darkc": 1,
   "go": "quote",
   "w": 1,
-  "icon": "custom",
-  "img": "img/cat-custom.webp",
-  "big": ""
+  "icon": "custom"
  },
  {
   "id": "materiali",
@@ -409,8 +390,6 @@
    }
   ],
   "bg": "linear-gradient(150deg,#fff8e0,#fdeeb5)",
-  "icon": "limited",
-  "img": "img/cat-limited.webp",
-  "big": ""
+  "icon": "limited"
  }
 ]

@@ -4,7 +4,7 @@
   "cat": "casa",
   "sub": 1,
   "n": {
-   "it": "Insegna  con nome Personalizzato Huntrix  Rumi",
+   "it": "Targa Casa Personalizzata",
    "en": "Custom House Plaque"
   },
   "mat": "Legno",
@@ -15,39 +15,24 @@
    "best"
   ],
   "tag": "Best",
-  "prod": 3,
-  "gallery": [
-   "img/1-g1.webp",
-   "img/1-g2.webp"
-  ],
-  "desc": {
-   "it": "Materiali: Legno e acrilico di alta qualità lavorati a laser con finiture lucide e dettagli a contrasto.\n\n​Design Esclusivo: Grafica personalizzata con il nome \"Huntrix\" e personaggio 3D integrato per un effetto tridimensionale unico.\n\n​Versatilità: Ideale come elemento di sfondo per i tuoi video e streaming sui social, decorazione per uffici creativi o come idea regalo esclusiva.\n\n​Artigianato 100% Italiano: Progettato e creato con cura artigianale nel nostro laboratorio.",
-   "en": "Materiali: Legno e acrilico di alta qualità lavorati a laser con finiture lucide e dettagli a contrasto.\n\n​Design Esclusivo: Grafica personalizzata con il nome \"Huntrix\" e personaggio 3D integrato per un effetto tridimensionale unico.\n\n​Versatilità: Ideale come elemento di sfondo per i tuoi video e streaming sui social, decorazione per uffici creativi o come idea regalo esclusiva.\n\n​Artigianato 100% Italiano: Progettato e creato con cura artigianale nel nostro laboratorio."
-  }
+  "prod": 3
  },
  {
   "id": 2,
   "cat": "casa",
   "sub": 1,
   "n": {
-   "it": "Lampada da Parete  Luna 3D",
+   "it": "Decorazione Nome Plexi",
    "en": "Plexi Name Decor"
   },
-  "mat": "PLA",
-  "price": 69.99,
+  "mat": "Plexiglass",
+  "price": 24,
   "icon": "🔤",
   "rev": 104,
   "coll": [
    "best"
   ],
-  "prod": 3,
-  "gallery": [
-   "img/2-g1.webp"
-  ],
-  "desc": {
-   "it": "​L'illuminazione LED circolare posteriore crea uno spettacolare effetto eclissi, perfetto per creare un'atmosfera rilassante e suggestiva in salotto, in camera da letto o nello studio.",
-   "en": "​L'illuminazione LED circolare posteriore crea uno spettacolare effetto eclissi, perfetto per creare un'atmosfera rilassante e suggestiva in salotto, in camera da letto o nello studio."
-  }
+  "prod": 3
  },
  {
   "id": 3,
@@ -61,21 +46,19 @@
   "price": 59,
   "icon": "🖼️",
   "rev": 141,
-  "prod": 5,
-  "gallery": [
-   "img/3-g1.webp"
-  ]
+  "coll": [],
+  "prod": 5
  },
  {
   "id": 4,
   "cat": "casa",
   "sub": 3,
   "n": {
-   "it": "Targa Personalizzata in Legno \"Nuvola e Orsetto\"",
+   "it": "Lampada LED Personalizzata",
    "en": "Custom LED Lamp"
   },
-  "mat": "Legno",
-  "price": 59.99,
+  "mat": "Plexiglass",
+  "price": 49,
   "icon": "💡",
   "rev": 178,
   "coll": [
@@ -83,14 +66,7 @@
    "new"
   ],
   "tag": "New",
-  "prod": 3,
-  "gallery": [
-   "img/4-g1.webp"
-  ],
-  "desc": {
-   "it": "Trasforma la cameretta del tuo bambino in un luogo magico con questa splendida targa decorativa artigianale. Realizzata con cura in legno a doppio strato, questa creazione presenta un design tridimensionale in risalto che aggiunge profondità e carattere all'ambiente.\n\nDesign Unico: La sagoma a nuvola blu fa da sfondo a un tenero orsetto decorativo, accompagnato dal nome del bambino intagliato e rifinito con precisione.\n\nDettagli Artigianali: Ogni elemento è studiato per offrire un effetto visivo accattivante, con stelle decorative che completano il tema sognante.\n\nQualità e Materiali: Realizzata in legno di alta qualità, è un complemento d'arredo solido e duraturo, perfetto come regalo per nascite, battesimi o compleanni.\n\nSpecifiche: Diametro/Larghezza di 35 cm, ideale per essere appesa sopra la culla, la porta della cameretta o su una parete dedicata.",
-   "en": "Trasforma la cameretta del tuo bambino in un luogo magico con questa splendida targa decorativa artigianale. Realizzata con cura in legno a doppio strato, questa creazione presenta un design tridimensionale in risalto che aggiunge profondità e carattere all'ambiente.\n\nDesign Unico: La sagoma a nuvola blu fa da sfondo a un tenero orsetto decorativo, accompagnato dal nome del bambino intagliato e rifinito con precisione.\n\nDettagli Artigianali: Ogni elemento è studiato per offrire un effetto visivo accattivante, con stelle decorative che completano il tema sognante.\n\nQualità e Materiali: Realizzata in legno di alta qualità, è un complemento d'arredo solido e duraturo, perfetto come regalo per nascite, battesimi o compleanni.\n\nSpecifiche: Diametro/Larghezza di 35 cm, ideale per essere appesa sopra la culla, la porta della cameretta o su una parete dedicata."
-  }
+  "prod": 3
  },
  {
   "id": 5,
