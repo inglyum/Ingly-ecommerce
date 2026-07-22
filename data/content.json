@@ -364,7 +364,8 @@
     "en": "Restaurant group · Bologna"
    },
    "c": "var(--blue)",
-   "i": "MR"
+   "i": "MR",
+   "ph": []
   },
   {
    "q": {
@@ -377,7 +378,8 @@
     "en": "Wedding · Rimini"
    },
    "c": "#8f6ad1",
-   "i": "GC"
+   "i": "GC",
+   "ph": []
   },
   {
    "q": {
@@ -390,7 +392,8 @@
     "en": "Tech company · Milano"
    },
    "c": "#2c8a5b",
-   "i": "LT"
+   "i": "LT",
+   "ph": []
   }
  ],
  "BIZ": [
@@ -537,26 +540,29 @@
   [
    "🪵",
    {
-    "it": "Menu board in rovere",
-    "en": "Oak menu boards"
+    "it": "Logo Harley Davidson ",
+    "en": "Logo Harley Davidson "
    },
-   "#e8d5b0,#c9a876"
+   "#e8d5b0,#c9a876",
+   "img/port-1.webp"
   ],
   [
    "🏆",
    {
-    "it": "Premio in vetro — Nova Tech",
+    "it": "Calamita Vespa",
     "en": "Glass award — Nova Tech"
    },
-   "#eef7f7,#cfe6e8"
+   "#eef7f7,#cfe6e8",
+   "img/port-2.webp"
   ],
   [
    "💍",
    {
-    "it": "Allestimento nozze",
+    "it": "Action Figure Personalizzato ",
     "en": "Wedding signage"
    },
-   "#f4f0ff,#d9ccf5"
+   "#f4f0ff,#d9ccf5",
+   "img/port-3.webp"
   ],
   [
    "🐾",
@@ -564,15 +570,14 @@
     "it": "Medagliette in acciaio",
     "en": "Steel pet tags"
    },
-   "#4a4a55,#23232c"
-  ],
-  [
-   "💡",
+   "#4a4a55,#23232c",
+   "img/port-4.webp",
+   null,
    {
-    "it": "Plexi retroilluminato",
-    "en": "Edge-lit acrylic"
-   },
-   "#dbe9ff,#aac6f5"
+    "foto": [
+     "img/proj-4-2.webp"
+    ]
+   }
   ],
   [
    "🎂",
@@ -580,55 +585,298 @@
     "it": "Cake topper su misura",
     "en": "Custom cake toppers"
    },
-   "#fdf1f3,#f5c8d2"
+   "#fdf1f3,#f5c8d2",
+   "img/port-6.webp"
   ],
   [
-   "🔑",
+   "✨",
    {
-    "it": "Portachiavi in pelle",
-    "en": "Leather keychains"
+    "it": "2",
+    "en": "2"
    },
-   "#b9825a,#8a5a38"
+   "#fde8ef,#f3c3d3",
+   "img/port-5.webp",
+   ""
   ],
   [
-   "🎄",
+   "✨",
    {
-    "it": "Run natalizia ×400",
-    "en": "Christmas run ×400"
+    "it": "2c237644 4895 4304 9f34 3b0e077b7c05",
+    "en": "2c237644 4895 4304 9f34 3b0e077b7c05"
    },
-   "#fdeaea,#f0bcbc"
+   "#e8d5b0,#c9a876",
+   "img/port-7.webp",
+   ""
   ],
   [
-   "⚙️",
+   "✨",
    {
-    "it": "Marcatura industriale F2",
-    "en": "F2 industrial marking"
+    "it": "3dbff510 1ed6 4802 98e6 54b54412279b",
+    "en": "3dbff510 1ed6 4802 98e6 54b54412279b"
    },
-   "#33313f,#211f2e"
+   "#eef7f7,#cfe6e8",
+   "img/port-8.webp",
+   ""
   ],
   [
-   "👶",
+   "✨",
    {
-    "it": "Targhe nascita",
-    "en": "Birth plaques"
+    "it": "5",
+    "en": "5"
    },
-   "#eefaf1,#bfe8cd"
+   "#f4f0ff,#d9ccf5",
+   "img/port-9.webp",
+   ""
   ],
   [
-   "🎓",
+   "✨",
    {
-    "it": "Targhe laurea",
-    "en": "Graduation plaques"
+    "it": "6fc08ffd7f8fb6b637dd54492851a47c",
+    "en": "6fc08ffd7f8fb6b637dd54492851a47c"
    },
-   "#fff8e0,#f8e69a"
+   "#ffeede,#f6cfa8",
+   "img/port-10.webp",
+   ""
   ],
   [
-   "🌙",
+   "✨",
    {
-    "it": "Lampade 3D",
-    "en": "3D lamps"
+    "it": "37e9de61 d21c 4f42 8b29 2ca5d0af58f9",
+    "en": "37e9de61 d21c 4f42 8b29 2ca5d0af58f9"
    },
-   "#f4f0ff,#e3daf8"
+   "#e3f0e8,#bcd9c6",
+   "img/port-11.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "Spiderman ",
+    "en": "45ec5863 7b58 41fc 8fd0 edf86cca44c0"
+   },
+   "#fde8ef,#f3c3d3",
+   "img/port-12.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "494d525c 5304 4e2b b542 11daf035e597",
+    "en": "494d525c 5304 4e2b b542 11daf035e597"
+   },
+   "#e8d5b0,#c9a876",
+   "img/port-13.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "667a4666 b93a 404b a079 ea11af18edcc",
+    "en": "667a4666 b93a 404b a079 ea11af18edcc"
+   },
+   "#eef7f7,#cfe6e8",
+   "img/port-14.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "Logo in legno Porsche",
+    "en": "Ac922a3315eed4e8ea14782bfc5c249d9P"
+   },
+   "#f4f0ff,#d9ccf5",
+   "img/port-15.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "adfb8827 2f71 4d0e 898c 7e5c17257a3c",
+    "en": "adfb8827 2f71 4d0e 898c 7e5c17257a3c"
+   },
+   "#ffeede,#f6cfa8",
+   "img/port-16.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "bba3a7d8b9aca0645ab146fe2d84fe7e",
+    "en": "bba3a7d8b9aca0645ab146fe2d84fe7e"
+   },
+   "#e3f0e8,#bcd9c6",
+   "img/port-17.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "de62ab610d8d697c12abba49435186d6",
+    "en": "de62ab610d8d697c12abba49435186d6"
+   },
+   "#fde8ef,#f3c3d3",
+   "img/port-18.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "dwdadad",
+    "en": "dwdadad"
+   },
+   "#e8d5b0,#c9a876",
+   "img/port-19.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "Gemini Generated Image  (37)",
+    "en": "Gemini Generated Image  (37)"
+   },
+   "#eef7f7,#cfe6e8",
+   "img/port-20.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "il 1588xN.7749506656 8k7s",
+    "en": "il 1588xN.7749506656 8k7s"
+   },
+   "#f4f0ff,#d9ccf5",
+   "img/port-21.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "WhatsApp Image 2026 02 19 at 18.04.28",
+    "en": "WhatsApp Image 2026 02 19 at 18.04.28"
+   },
+   "#ffeede,#f6cfa8",
+   "img/port-22.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "WhatsApp Image 2026 02 19 at 18.04.31 (1)",
+    "en": "WhatsApp Image 2026 02 19 at 18.04.31 (1)"
+   },
+   "#e3f0e8,#bcd9c6",
+   "img/port-23.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "WhatsApp Image 2026 02 19 at 18.04.31",
+    "en": "WhatsApp Image 2026 02 19 at 18.04.31"
+   },
+   "#fde8ef,#f3c3d3",
+   "img/port-24.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "WhatsApp Image 2026 02 19 at 18.04.33",
+    "en": "WhatsApp Image 2026 02 19 at 18.04.33"
+   },
+   "#e8d5b0,#c9a876",
+   "img/port-25.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "WhatsApp Image 2026 02 19 at 18.04.35 (1)",
+    "en": "WhatsApp Image 2026 02 19 at 18.04.35 (1)"
+   },
+   "#eef7f7,#cfe6e8",
+   "img/port-26.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "WhatsApp Image 2026 02 19 at 18.04.44 (1)",
+    "en": "WhatsApp Image 2026 02 19 at 18.04.44 (1)"
+   },
+   "#f4f0ff,#d9ccf5",
+   "img/port-27.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "WhatsApp Image 2026 02 19 at 18.11.59",
+    "en": "WhatsApp Image 2026 02 19 at 18.11.59"
+   },
+   "#ffeede,#f6cfa8",
+   "img/port-28.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "WhatsApp Image 2026 03 07 at 23.19.51",
+    "en": "WhatsApp Image 2026 03 07 at 23.19.51"
+   },
+   "#e3f0e8,#bcd9c6",
+   "img/port-29.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "WhatsApp Image 2026 03 08 at 00.13.20   Copia",
+    "en": "WhatsApp Image 2026 03 08 at 00.13.20   Copia"
+   },
+   "#fde8ef,#f3c3d3",
+   "img/port-30.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "WhatsApp Image 2026 03 28 at 18.12.40",
+    "en": "WhatsApp Image 2026 03 28 at 18.12.40"
+   },
+   "#e8d5b0,#c9a876",
+   "img/port-31.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "WhatsApp Image 2026 03 29 at 10.42.18",
+    "en": "WhatsApp Image 2026 03 29 at 10.42.18"
+   },
+   "#eef7f7,#cfe6e8",
+   "img/port-32.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "WhatsApp Image 2026 04 16 at 17.41.34 (2)",
+    "en": "WhatsApp Image 2026 04 16 at 17.41.34 (2)"
+   },
+   "#f4f0ff,#d9ccf5",
+   "img/port-33.webp",
+   ""
+  ],
+  [
+   "✨",
+   {
+    "it": "wolverine clean minimal",
+    "en": "wolverine clean minimal"
+   },
+   "#ffeede,#f6cfa8",
+   "img/port-34.webp",
+   ""
   ]
  ],
  "FONTS": [
@@ -3424,6 +3672,7 @@
  },
  "SPONSORS": {
   "attivo": true,
+  "grigio": false,
   "titolo": {
    "it": "Partner & Sponsor",
    "en": "Partners & Sponsors"
@@ -3432,13 +3681,270 @@
    "it": "Aziende e artigiani con cui lavoriamo ogni giorno.",
    "en": "Businesses and makers we work with every day."
   },
-  "grigio": false,
-  "lista": [],
   "cta": {
    "it": "Vuoi comparire qui? Scrivici.",
    "en": "Want to appear here? Get in touch."
   },
-  "ctaLink": "#/contatti"
+  "ctaLink": "#/contatti",
+  "lista": [
+   {
+    "nome": "Titinciu Elettro-utensili",
+    "link": "https://titinciu.it/",
+    "livello": "",
+    "desc": {
+     "it": "",
+     "en": ""
+    },
+    "logo": "img/sponsor-1.webp"
+   },
+   {
+    "nome": "Intravaia Termo Elettrica",
+    "link": "https://www.facebook.com/profile.php?id=61560889084063",
+    "livello": "",
+    "desc": {
+     "it": " Via principe di camporeale 36, 90048 San Giuseppe Jato",
+     "en": ""
+    },
+    "logo": "img/sponsor-2.svg"
+   },
+   {
+    "nome": "Spatola Impresa Edile",
+    "link": "https://www.instagram.com/spatola_costruzioni/",
+    "livello": "",
+    "desc": {
+     "it": "",
+     "en": ""
+    },
+    "logo": "img/sponsor-3.svg"
+   }
+  ]
  },
- "GALSPEED": 96
+ "GALSPEED": 96,
+ "MV": {
+  "img/cat-casa.webp": [
+   400,
+   800
+  ],
+  "img/cat-eventi.webp": [
+   400,
+   800
+  ],
+  "img/cat-animali.webp": [
+   400,
+   800
+  ],
+  "img/cat-accessori.webp": [
+   400,
+   800
+  ],
+  "img/cat-b2b.webp": [
+   400,
+   800
+  ],
+  "img/cat-bambini.webp": [
+   400,
+   800
+  ],
+  "img/cat-limited.webp": [
+   400,
+   800
+  ],
+  "img/cat-stagionale.webp": [
+   400,
+   800
+  ],
+  "img/1.webp": [
+   400,
+   800
+  ],
+  "img/1-g1.webp": [
+   400,
+   800
+  ],
+  "img/1-g2.webp": [
+   400,
+   800
+  ],
+  "img/port-1.webp": [
+   400,
+   800
+  ],
+  "img/port-2.webp": [
+   400,
+   800
+  ],
+  "img/port-3.webp": [
+   400,
+   800
+  ],
+  "img/sponsor-1.webp": [
+   400,
+   800
+  ],
+  "img/2.webp": [
+   400,
+   800
+  ],
+  "img/2-g1.webp": [
+   400,
+   800
+  ],
+  "img/3.webp": [
+   400,
+   800
+  ],
+  "img/3-g1.webp": [
+   400,
+   800
+  ],
+  "img/4.webp": [
+   400,
+   800
+  ],
+  "img/4-g1.webp": [
+   400,
+   800
+  ],
+  "img/proj-4-1.webp": [
+   400,
+   800
+  ],
+  "img/proj-4-2.webp": [
+   400,
+   800
+  ],
+  "img/port-4.webp": [
+   400,
+   800
+  ],
+  "img/port-6.webp": [
+   400,
+   800
+  ],
+  "img/port-5.webp": [
+   400,
+   800
+  ],
+  "img/port-7.webp": [
+   400,
+   800
+  ],
+  "img/port-8.webp": [
+   400,
+   800
+  ],
+  "img/port-9.webp": [
+   400,
+   800
+  ],
+  "img/port-10.webp": [
+   400
+  ],
+  "img/port-11.webp": [
+   400,
+   800
+  ],
+  "img/port-12.webp": [
+   400,
+   800
+  ],
+  "img/port-13.webp": [
+   400,
+   800
+  ],
+  "img/port-14.webp": [
+   400
+  ],
+  "img/port-15.webp": [
+   400,
+   800
+  ],
+  "img/port-16.webp": [
+   400,
+   800
+  ],
+  "img/port-17.webp": [
+   400,
+   800
+  ],
+  "img/port-18.webp": [
+   400,
+   800
+  ],
+  "img/port-19.webp": [
+   400,
+   800
+  ],
+  "img/port-20.webp": [
+   400,
+   800
+  ],
+  "img/port-21.webp": [
+   400,
+   800
+  ],
+  "img/port-22.webp": [
+   400,
+   800
+  ],
+  "img/port-23.webp": [
+   400,
+   800
+  ],
+  "img/port-24.webp": [
+   400,
+   800
+  ],
+  "img/port-25.webp": [
+   400,
+   800
+  ],
+  "img/port-26.webp": [
+   400,
+   800
+  ],
+  "img/port-27.webp": [
+   400,
+   800
+  ],
+  "img/port-28.webp": [
+   400,
+   800
+  ],
+  "img/port-29.webp": [
+   400,
+   800
+  ],
+  "img/port-30.webp": [
+   400
+  ],
+  "img/port-31.webp": [
+   400,
+   800
+  ],
+  "img/port-32.webp": [
+   400,
+   800
+  ],
+  "img/port-33.webp": [
+   400,
+   800
+  ],
+  "img/port-34.webp": [
+   400,
+   800
+  ],
+  "img/20.webp": [
+   400
+  ],
+  "img/cat-custom.webp": [
+   400,
+   800
+  ],
+  "img/cat-digitale.webp": [
+   400,
+   800
+  ]
+ },
+ "FOCAL": {}
 }
