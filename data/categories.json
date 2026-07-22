@@ -366,7 +366,10 @@
   },
   "sub": [],
   "go": "about",
-  "icon": "materiali"
+  "icon": "materiali",
+  "img": "img/cat-materiali.webp",
+  "big": "",
+  "bg": ""
  },
  {
   "id": "tecnologie",
@@ -381,7 +384,10 @@
   },
   "sub": [],
   "go": "about",
-  "icon": "tecnologie"
+  "icon": "tecnologie",
+  "img": "img/cat-tecnologie.webp",
+  "big": "",
+  "bg": ""
  },
  {
   "id": "limited",

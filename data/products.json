@@ -28,13 +28,13 @@
  {
   "id": 2,
   "cat": "casa",
-  "sub": 1,
+  "sub": 4,
   "n": {
-   "it": "Decorazione Nome Plexi",
+   "it": "Lampada da Parete \"Luna\" 3D ",
    "en": "Plexi Name Decor"
   },
-  "mat": "Plexiglass",
-  "price": 24,
+  "mat": "PLA",
+  "price": 79.99,
   "icon": "🔤",
   "rev": 104,
   "coll": [
